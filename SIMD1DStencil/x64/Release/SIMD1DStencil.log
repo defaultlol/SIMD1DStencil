@@ -1,0 +1,4 @@
+﻿main.obj : error LNK2001: unresolved external symbol SIMDXVersionStencil
+main.obj : error LNK2001: unresolved external symbol SIMDYVersionStencil
+main.obj : error LNK2001: unresolved external symbol ASMVersionStencil
+C:\Users\raafi bandrang\source\repos\SIMD1DStencil\x64\Release\SIMD1DStencil.exe : fatal error LNK1120: 3 unresolved externals
