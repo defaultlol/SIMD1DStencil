@@ -1,4 +1,39 @@
-﻿main.obj : error LNK2001: unresolved external symbol SIMDXVersionStencil
-main.obj : error LNK2001: unresolved external symbol SIMDYVersionStencil
-main.obj : error LNK2001: unresolved external symbol ASMVersionStencil
-C:\Users\raafi bandrang\source\repos\SIMD1DStencil\x64\Release\SIMD1DStencil.exe : fatal error LNK1120: 3 unresolved externals
+﻿  main.c
+C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(36,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int64_t'
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(36,16):
+      consider using '%lld' in the format string
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(36,16):
+      consider using '%Id' in the format string
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(36,16):
+      consider using '%I64d' in the format string
+  
+C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(39,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int64_t'
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(39,16):
+      consider using '%lld' in the format string
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(39,16):
+      consider using '%Id' in the format string
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(39,16):
+      consider using '%I64d' in the format string
+  
+C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(42,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int64_t'
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(42,16):
+      consider using '%lld' in the format string
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(42,16):
+      consider using '%Id' in the format string
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(42,16):
+      consider using '%I64d' in the format string
+  
+C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(45,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int64_t'
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(45,16):
+      consider using '%lld' in the format string
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(45,16):
+      consider using '%Id' in the format string
+      C:\Users\raafi bandrang\source\repos\SIMD1DStencil\main.c(45,16):
+      consider using '%I64d' in the format string
+  
+  Generating code
+  7 of 7 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SIMD1DStencil.vcxproj -> C:\Users\raafi bandrang\source\repos\SIMD1DStencil\x64\Release\SIMD1DStencil.exe

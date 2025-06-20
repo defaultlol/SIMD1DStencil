@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{666B1F4B-E468-42D1-B66C-11A9CDBF591F}|SIMD1DStencil.vcxproj|C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{666B1F4B-E468-42D1-B66C-11A9CDBF591F}|SIMD1DStencil.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666B1F4B-E468-42D1-B66C-11A9CDBF591F}|SIMD1DStencil.vcxproj|C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\simdybase.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{666B1F4B-E468-42D1-B66C-11A9CDBF591F}|SIMD1DStencil.vcxproj|solutionrelative:simdybase.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666B1F4B-E468-42D1-B66C-11A9CDBF591F}|SIMD1DStencil.vcxproj|C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\asmbase.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{666B1F4B-E468-42D1-B66C-11A9CDBF591F}|SIMD1DStencil.vcxproj|solutionrelative:asmbase.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666B1F4B-E468-42D1-B66C-11A9CDBF591F}|SIMD1DStencil.vcxproj|C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\simdxbase.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{666B1F4B-E468-42D1-B66C-11A9CDBF591F}|SIMD1DStencil.vcxproj|solutionrelative:simdxbase.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "simdxbase.asm",
+              "DocumentMoniker": "C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\simdxbase.asm",
+              "RelativeDocumentMoniker": "simdxbase.asm",
+              "ToolTip": "C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\simdxbase.asm",
+              "RelativeToolTip": "simdxbase.asm",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-19T20:53:48.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "asmbase.asm",
+              "DocumentMoniker": "C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\asmbase.asm",
+              "RelativeDocumentMoniker": "asmbase.asm",
+              "ToolTip": "C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\asmbase.asm",
+              "RelativeToolTip": "asmbase.asm",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-19T20:39:20.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "simdybase.asm",
+              "DocumentMoniker": "C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\simdybase.asm",
+              "RelativeDocumentMoniker": "simdybase.asm",
+              "ToolTip": "C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\simdybase.asm",
+              "RelativeToolTip": "simdybase.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-19T20:23:48.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.CppCommon.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAEwP0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-19T20:00:40.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\raafi bandrang\\source\\repos\\SIMD1DStencil\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-19T18:50:42.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

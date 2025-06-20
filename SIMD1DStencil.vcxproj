@@ -116,6 +116,9 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <Optimization>Custom</Optimization>
+      <WholeProgramOptimization>true</WholeProgramOptimization>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -131,6 +134,9 @@
       <FileType>Document</FileType>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">"C:\Program Files (x86)\SASM\NASM\nasm" -f win64 asmbase.asm</Command>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">asmbase.obj</Outputs>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">"C:\Program Files (x86)\SASM\NASM\nasm" -f win64 asmbase.asm</Command>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">asmbase.obj</Outputs>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +145,9 @@
       <FileType>Document</FileType>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">"C:\Program Files (x86)\SASM\NASM\nasm" -f win64 simdybase.asm</Command>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">simdybase.obj</Outputs>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">"C:\Program Files (x86)\SASM\NASM\nasm" -f win64 simdybase.asm</Command>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">simdybase.obj</Outputs>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
@@ -147,6 +156,9 @@
       <FileType>Document</FileType>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">"C:\Program Files (x86)\SASM\NASM\nasm" -f win64 simdxbase.asm</Command>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">simdxbase.obj</Outputs>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">"C:\Program Files (x86)\SASM\NASM\nasm" -f win64 simdxbase.asm</Command>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">simdxbase.obj</Outputs>
     </CustomBuild>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
